@@ -51,6 +51,7 @@ So lassen sich fünf zentrale Themenfelder identifizieren, die jeweils durch die
 ## 📁 Daten und Code
 
 Der Quellcode sowie Beispiel-Datensätze befinden sich in den jeweiligen `.py`-Dateien. Die Verarbeitungsschritte sind modular aufgebaut und dokumentiert.
+Falls eigene Daten genutzt werden, muss der Pfad der CSV-Datei im Code angepasst werden.
 
 ---
 
